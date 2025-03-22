@@ -9,5 +9,11 @@ def my_function_strng(x,y):
 
 def my_funct_2()
     print("Hola 2")
+
+def my_funct_3()
+    print("Hola 2")
+
+def my_funct_4()
+    print("Hola 2")
     
 
