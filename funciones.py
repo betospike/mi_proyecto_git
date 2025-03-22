@@ -19,3 +19,6 @@ def my_funct_4()
 
 def my_funct_5()
     print("Hola 5")
+    
+def my_funct_6()
+    print("Hola 6")
